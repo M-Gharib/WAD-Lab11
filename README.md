@@ -21,10 +21,10 @@ npm install
 
 ## Run the project
 ```
-npm start
+node server
 ```
 
 or 
 ```
-npm server.js
+nodemon server
 ```
